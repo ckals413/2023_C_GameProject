@@ -125,7 +125,8 @@
     <summary>🎞실행영상🎞</summary>
 
 ## 게임요약 설명영상
-[![Video Label](https://github.com/ckals413/2023_C_GameProject/assets/124526270/13be8f3c-e1dd-4908-b203-be93045cf786)](https://youtu.be/bfcG2QWJGuE)
+[![Video Label](![image](https://github.com/ckals413/2023_C_GameProject/assets/124526270/866e8893-676f-474b-838e-20c1c1b40a6c)
+)](https://youtu.be/bfcG2QWJGuE)
 
 ## 게임실행 원본영상
 [![Video Label](https://github.com/ckals413/2023_C_GameProject/assets/124526270/13be8f3c-e1dd-4908-b203-be93045cf786)](https://youtu.be/94VuX9fxzIo?si=zR9os21u9CGZCu29)
